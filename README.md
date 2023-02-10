@@ -1,4 +1,4 @@
-# Australian university codes of research conduct could endorse responsible research practices more strongly
+# Responsible research practices could be more strongly endorsed by Australian university codes of research conduct
 
 Yi Kai Ong,<sup>1</sup> 
 Kay L Double,<sup>2,3</sup>
@@ -25,7 +25,7 @@ The protocol for this study is stored in the OSF project folder, and registered:
 
 ## Data
 
-Raw data are stored in **data -> raw**.
+Raw data are stored in **data/raw/**.
 
 * Codesofconductreview_DATA_2021-08-26_0940.csv
 * Codesofconductreview_DATA_LABELS_2021-03-08_1401.csv
@@ -73,14 +73,14 @@ Download all files into a single folder and run `script.py`.
 
 ## Output
 
-Output are generated and stored in **data -> proc**:
+Output are generated and stored in **data/proc/**:
 
 * Figures of Non-Group of Eight results:
   * definitions.svg
   * ethics.svg
   * misbehaviours.svg
   * outcomes.svg
-* Figures of Group of Eight results are stored in **data -> proc -> go8**:
+* Figures of Group of Eight results are stored in **data/proc/go8/**:
   * definitions_.svg
   * ethics_.svg
   * misbehaviours_.svg
