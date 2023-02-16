@@ -13,8 +13,7 @@ Joanna Diong<sup>2,5</sup>
 
 ## Suggested citation
 
-Ong YK, Double KL, Bero L, Diong J (2023) Australian university codes of research conduct
-could endorse responsible research practices more strongly. Research Integrity and Peer Review (in press).
+Ong YK, Double KL, Bero L, Diong J (2023) Responsible research practices could be more strongly endorsed by Australian university codes of research conduct. Research Integrity and Peer Review (in press).
 
 ## Protocol registration
 
