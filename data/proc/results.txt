@@ -1,0 +1,329 @@
+
+[go8]: Is the University part of the Group of 8?   These are:  - Australian National Un
+[def_res_integrity]: 'research integrity'? 
+[def_res_quality]: 'research quality'?
+[def_res_misconduct]: 'research misconduct'?
+[ethics_human]: all research on humans must be approved by an appropriate Ethics Committee?
+[ethics_animal]: all research on animals must be approved by an appropriate Ethics Committee?
+[protocol_rct]: study protocols of clinical trials should be publicly registered?
+[protocol_other]: study protocols of other study designs should be publicly registered?
+[protocol_analy]: analysis protocols should be publicly registered?
+[open_data]: study data should be made publicly available?
+[open_code]: analysis code should be made publicly available?
+[open_publish]: findings should be published on open access platforms?
+[funding_open_access]: Is there University funding to support open access publication?
+[report_guide]: reporting guidelines (e.g. from journals, professional associations, or the EQUA
+[coi]: conflicts of interest should be declared? 
+[training]: researchers should receive training in research integrity and other areas (e.g. 
+[fabricate_data]: fabricating data
+[select_data]: selectively deleting or modifying data after performing initial data analysis
+[select_results]: selectively reporting results (e.g. not publishing a valid 'negative' finding)
+[p_hacking]: performing analyses until statistically significant results are obtained (i.e. p
+[harking]: hypothesizing after results are known
+
+
+DEFINITIONS
+
+Q1. Does the code define 'research integrity'? 
+
+Non-Group of Eight
+default     6
+no          6
+specific    5
+
+default     35.3
+no          35.3
+specific    29.4
+
+Group of Eight
+default     3
+no          2
+specific    3
+
+default     37.5
+no          25.0
+specific    37.5
+
+Q2. Does the code define 'research quality'?
+
+Non-Group of Eight
+default     4
+no          9
+specific    4
+
+default     23.5
+no          52.9
+specific    23.5
+
+Group of Eight
+default     2
+no          4
+specific    2
+
+default     25.0
+no          50.0
+specific    25.0
+
+Q3. Does the code define 'research misconduct'?
+
+Non-Group of Eight
+no           1
+specific    16
+
+no           5.9
+specific    94.1
+
+Group of Eight
+no          1
+specific    7
+
+no          12.5
+specific    87.5
+
+
+ETHICS
+
+Q4. Does the code state that all research on humans must be approved by an appropriate Ethics Committee?
+
+Non-Group of Eight
+yes    17
+
+yes    100.0
+
+Group of Eight
+yes    8
+
+yes    100.0
+
+Q5. Does the code state that all research on animals must be approved by an appropriate Ethics Committee?
+
+Non-Group of Eight
+yes    17
+
+yes    100.0
+
+Group of Eight
+yes    8
+
+yes    100.0
+
+
+RESPONSIBLE PRACTICES AND MISBEHAVIOURS
+
+Q6. Does the code state that study protocols of clinical trials should be publicly registered?
+
+Non-Group of Eight
+default      1
+no          11
+required     5
+
+default      5.9
+no          64.7
+required    29.4
+
+Group of Eight
+no          5
+required    3
+
+no          62.5
+required    37.5
+
+Q7. Does the code state that study protocols of other study designs should be publicly registered?
+
+Non-Group of Eight
+advised      1
+no          15
+required     1
+
+advised      5.9
+no          88.2
+required     5.9
+
+Group of Eight
+no    8
+
+no    100.0
+
+Q8. Does the code state that analysis protocols should be publicly registered?
+
+Non-Group of Eight
+advised     1
+no         16
+
+advised     5.9
+no         94.1
+
+Group of Eight
+no    8
+
+no    100.0
+
+Q9. Does the code state that study data should be made publicly available?
+
+Non-Group of Eight
+advised     10
+no           5
+required     2
+
+advised     58.8
+no          29.4
+required    11.8
+
+Group of Eight
+advised     4
+no          2
+required    2
+
+advised     50.0
+no          25.0
+required    25.0
+
+Q10. Does the code state that analysis code should be made publicly available?
+
+Non-Group of Eight
+no    17
+
+no    100.0
+
+Group of Eight
+no    8
+
+no    100.0
+
+Q11. Does the code state that findings should be published on open access platforms?
+
+Non-Group of Eight
+advised     8
+no          3
+required    6
+
+advised     47.1
+no          17.6
+required    35.3
+
+Group of Eight
+no          5
+required    3
+
+no          62.5
+required    37.5
+
+Q12. Does the code state that reporting guidelines (e.g. from journals, professional associations, or the EQUATOR network) should be used in reporting research?
+
+Non-Group of Eight
+advised     1
+no         16
+
+advised     5.9
+no         94.1
+
+Group of Eight
+no    8
+
+no    100.0
+
+Q13. Does the code state that conflicts of interest should be declared? 
+
+Non-Group of Eight
+required    17
+
+required    100.0
+
+Group of Eight
+required    8
+
+required    100.0
+
+Q14. Does the code state that researchers should receive training in research integrity and other areas (e.g. research supervision, data management, peer review, publishing 'negative' findings)? 
+
+Non-Group of Eight
+advised     8
+no          1
+required    8
+
+advised     47.1
+no           5.9
+required    47.1
+
+Group of Eight
+advised     2
+required    6
+
+advised     25.0
+required    75.0
+
+Q15. Does the code state that fabricating data should be discouraged
+
+Non-Group of Eight
+no           2
+required    15
+
+no          11.8
+required    88.2
+
+Group of Eight
+no          3
+required    5
+
+no          37.5
+required    62.5
+
+Q16. Does the code state that selectively deleting or modifying data after performing initial data analysis should be discouraged
+
+Non-Group of Eight
+advised     13
+no           2
+required     2
+
+advised     76.5
+no          11.8
+required    11.8
+
+Group of Eight
+advised    5
+no         3
+
+advised    62.5
+no         37.5
+
+Q17. Does the code state that selectively reporting results (e.g. not publishing a valid 'negative' finding) should be discouraged
+
+Non-Group of Eight
+advised     12
+no           2
+required     3
+
+advised     70.6
+no          11.8
+required    17.6
+
+Group of Eight
+advised    3
+no         5
+
+advised    37.5
+no         62.5
+
+Q18. Does the code state that performing analyses until statistically significant results are obtained (i.e. p-hacking) should be discouraged
+
+Non-Group of Eight
+no    17
+
+no    100.0
+
+Group of Eight
+no    8
+
+no    100.0
+
+Q19. Does the code state that hypothesizing after results are known should be discouraged
+
+Non-Group of Eight
+no    17
+
+no    100.0
+
+Group of Eight
+no    8
+
+no    100.0
