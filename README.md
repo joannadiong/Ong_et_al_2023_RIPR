@@ -85,6 +85,7 @@ Output are generated and stored in **data/proc/**:
   * misbehaviours_.svg
   * outcomes_.svg
 * results.txt
+* fig1.svg
 
 
 [project_folder]: https://osf.io/yfz8k/
